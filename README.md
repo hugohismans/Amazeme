@@ -3,7 +3,7 @@
 Un labyrinthe en trois dimensions, à la première personne, dans un seul fichier HTML.
 Pas de dépendance, pas de serveur, pas de build : ouvrez `index.html` et marchez.
 
-![Menu](docs/menu.jpg)
+![Menu](docs/menu.png)
 
 ## Jouer
 
@@ -22,14 +22,14 @@ Le **Défi du jour** change chaque jour à minuit, identique pour tous les joueu
 
 La boussole et le survol aident à trouver la sortie, mais un temps réalisé avec une aide ne compte pas comme record.
 
-![En jeu](docs/play.jpg)
+![En jeu](docs/play.png)
 
 ## À l'arrivée
 
 La caméra s'élève au-dessus du labyrinthe. Votre trajet apparaît en bleu, le chemin optimal se dessine en or,
 et la fiche compare les deux : temps, nombre de cases, efficacité, meilleur temps.
 
-![Arrivée](docs/win.jpg)
+![Arrivée](docs/win.png)
 
 ## Sous le capot
 
